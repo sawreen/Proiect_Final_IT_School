@@ -1,5 +1,7 @@
 SRC
+
 Firstpage
+
 1. Deschide pagina tazz.ro
 2. Mărește window-ul
 3. Acceptă cookies
@@ -11,18 +13,24 @@ Firstpage
 9. Completează detalii despre locație
 10. Selectează tipul adresei
 11. Salvează adresa
+
 Secondpage
+
 1. Dă click pe restaurant
 2. Dă click pe filtru
 3. Selectează burger și livrare tazz
 4. Aplică
+
 Productspage
+
 1. Dă click pe restaurantul Salsa
 2. Scrolldown
 3. Selectează secțiunea quesadilla
 4. Alege și adaugă Quesadilla de vită
 5. Alege și adaugă Quesadilla Chilli con carne
+
 Cartpage
+
 1. Dă click pe coșul de cumpărături
 2. Scrolldown
 3. Selectează livrare cu tacâmuri
@@ -36,7 +44,9 @@ Cartpage
 
 
 SRC2
+
 Firstpage
+
 1. Deschide pagina tazz.ro
 2. Mărește window-ul
 3. Acceptă cookies
@@ -48,13 +58,17 @@ Firstpage
 9. Completează detalii despre locație
 10. Selectează tipul adresei
 11. Salvează adresa
+
 Secondpage
+
 1. Dă click supermarket
 2. Dă click pe Kaufland
 3. Scrolldown
 4. Dă click pe băuturi
 5. Dă click pe apă
+
 Productspage
+
 1. Dă click pe Aqua Carpatica 2L
 2. Adaugă înca 3 bucăți la comandă
 3. Adaugă în coș
@@ -63,7 +77,9 @@ Productspage
 6. Dă click pe Azuga carbogazoasă 2L
 7. Adaugă înca 3 bucăți la comandă
 8. Adaugă în coș
+
 Cartpage
+
 1. Dă click pe coșul de cumpărături
 2. Șterge două bucăți din apa carbogazoasă
 3. Completează comanda cu produsul banane
@@ -77,7 +93,9 @@ Cartpage
 
 
 SRC3
+
 Firstpage
+
 1. Deschide pagina tazz.ro
 2. Mărește window-ul
 3. Acceptă cookies
@@ -89,12 +107,16 @@ Firstpage
 9. Completează detalii despre locație
 10. Selectează tipul adresei
 11. Salvează adresa
+
 Secondpage
+
 1. Dă click pe Băuturi și tutun
 2. Dă click pe Hora Wine
 3. Scrolldown
 4. Dă click pe tărie
+
 Productspage
+
 1. Dă click pe Bardar – 20 de ani
 2. Adaugă înca 2 bucăți la comandă
 3. Adaugă în coș
@@ -107,7 +129,9 @@ Productspage
 10. Scrolldown
 11. Dă click pe vinul Novak Alb de Onitcani
 12. Adaugă o bucată în plus și adaugă in coș
+
 Cartpage
+
 1. Dă click pe coșul de cumpărături
 2. Scrolldown
 3. Completează comanda cu produsul Gitana Winery La Petite
@@ -117,7 +141,9 @@ Cartpage
 
 
 SRC4
+
 Firstpage
+
 1. Deschide pagina tazz.ro
 2. Mărește window-ul
 3. Acceptă cookies
@@ -129,12 +155,16 @@ Firstpage
 9. Completează detalii despre locație
 10. Selectează tipul adresei
 11. Salvează adresa
+
 Secondpage
+
 1. Dă click pe Mall online
 2. Dă click pe MobiUP Palas Iași
 3. Scrolldown
 4. Dă click pe cablu de date
+
 Productspage
+
 1. Dă click pe Cablu TypeC negru
 2. Adaugă în coș
 3. Dă click pe Cablu lightning
@@ -148,7 +178,9 @@ Productspage
 11. Dă click pe Suport Auto
 12. Dă click pe Suport auto cellara gravity
 13. Adaugă în coș
+
 Cartpage
+
 1. Dă click pe coșul de cumpărături
 2. Adaugă câte o bucată în plus la fiecare produs
 3. Scrolldown
@@ -158,7 +190,9 @@ Cartpage
 
 
 SRC5
+
 Firstpage
+
 1. Deschide pagina tazz.ro
 2. Mărește window-ul
 3. Acceptă cookies
@@ -170,12 +204,16 @@ Firstpage
 9. Completează detalii despre locație
 10. Selectează tipul adresei
 11. Salvează adresa
+
 Secondpage
+
 1. Dă click pe Restaurante
 2. Dă click pe Mc Donalds
 3. Scrolldown
-Dă click pe Happy Meal
+4. Dă click pe Happy Meal
+
 Productspage
+
 1. Dă click pe Hamburger
 2. Adaugă în coș
 3. Dă click pe McPuișor
@@ -187,7 +225,9 @@ Productspage
 9. Scrolldown
 10. Dă click pe Sprite
 11. Adaugă în coș
+
 Cartpage
+
 1. Dă click pe coșul de cumpărături
 2. Scrolldown
 3. Scrie o mențiune suplimentară pentru livrare
