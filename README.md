@@ -210,7 +210,7 @@ Secondpage
 1. Dă click pe Restaurante
 2. Dă click pe Mc Donalds
 3. Scrolldown
-4. Dă click pe Happy Meal
+4 Dă click pe Happy Meal
 
 Productspage
 
