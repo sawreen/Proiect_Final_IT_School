@@ -8,7 +8,7 @@ class SecondPage(PageFactory):
     locators = {
 
         "bauturitutun": ("XPATH", '/html/body/div[2]/main/div/tz-widget-partner-types/div/div[2]/div/tz-dynamic-carousel/div/section/ul/li[3]/a'),
-        "hora": ("XPATH", '/html/body/div[2]/main/tz-partners/div/div[2]/div[4]/a'),
+        "hora": ("XPATH", '/html/body/div[2]/main/tz-partners/div/div[2]/div[5]/a'),
         "tarie": ("XPATH", '/html/body/div[2]/main/tz-widget-market/div/div/div/div/div/a[2]')
 
 
